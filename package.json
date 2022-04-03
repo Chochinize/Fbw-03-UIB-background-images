@@ -1,0 +1,19 @@
+{
+  "name": "uib-fbw-03-background-images",
+  "version": "1.0.0",
+  "description": "Trial-Lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Chochinize/Fbw-03-UIB-background-images.git"
+  },
+  "author": "Aleksiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chochinize/Fbw-03-UIB-background-images/issues"
+  },
+  "homepage": "https://github.com/Chochinize/Fbw-03-UIB-background-images#readme"
+}
