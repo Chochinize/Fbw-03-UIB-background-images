@@ -13,6 +13,6 @@
 **Bonus for task 2**: 
 * Add padding to the sections. 
 * Make the sections appear side-by-side. 
-* Add a border radius to the sections.
+* Add a border radius to the sections.!
 
 ![task2-reference](./images/task2.png)
